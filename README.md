@@ -2,6 +2,7 @@
 
 This project is part of a Git and Markdown exercise. It demonstrates how to create and manage a project using Git and how to write documentation with [Git Documentation](https://git-scm.com/doc).
 ![Project Logo](images/logo.png)
+This project also demonstrates how to manage changes using Git branches and commits.
 
 ## Table of Contents
 - [Introduction](#introduction)
