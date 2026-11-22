@@ -15,6 +15,11 @@ This section introduces the project.
 
 ## Features
 This section describes the project features.
+| Feature       | Description                    | Status      |
+|---------------|--------------------------------|-------------|
+| Documentation | Project documentation in Markdown | Completed |
+| Git           | Version control with Git       | Completed   |
+| Logo          | Project logo displayed         | Completed   |
 
 ## Installation
 This section explains how to install the project.
