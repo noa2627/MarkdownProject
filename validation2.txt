@@ -1,0 +1,117 @@
+commit 2a83d9438c0c2fbc94071e278e884f19827c1448
+Merge: b8f5d7d 8c0836a
+Author: noa2627 <noacanmar@iespoblenou.org>
+Date:   Sun Nov 22 18:57:21 2026 +0100
+
+    Merge pull request #2 from noa2627/feature/1-contribution-guidelines
+    
+    Add contribution guidelines
+
+commit 8c0836aec4b8dda8b7b1842bb6e5f8ff5b773702
+Author: noa cantero <noacanmar@iespoblenou.org>
+Date:   Sun Nov 22 18:35:48 2026 +0100
+
+    Add contribution guidelines
+
+ CONTRIBUTING.md | 19 +++++++++++++++++++
+ 1 file changed, 19 insertions(+)
+
+commit b8f5d7d30e80401bbbc18cf7c35677103a43830c
+Author: noa cantero <noacanmar@iespoblenou.org>
+Date:   Sun Nov 22 18:12:20 2026 +0100
+
+    Add validation 1 file
+
+ validation1.txt | 90 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+ 1 file changed, 90 insertions(+)
+
+commit 427f560beaeb47101823f5da49e7ef5185d78746
+Author: noa cantero <noacanmar@iespoblenou.org>
+Date:   Sun Nov 22 18:03:16 2026 +0100
+
+    Update Introduction of README.md
+
+ README.md | 1 +
+ 1 file changed, 1 insertion(+)
+
+commit 82aa2581d6c73dc9f68d591d4c65d8d85b9d80bb
+Author: noa cantero <noacanmar@iespoblenou.org>
+Date:   Sun Nov 22 17:40:19 2026 +0100
+
+    Merge add-license branch into main
+
+ LICENSE.md | 9 +++++++++
+ 1 file changed, 9 insertions(+)
+
+commit 1901d0a7a9ee5305fed64db9bf1d77120ac73b09
+Author: noa cantero <noacanmar@iespoblenou.org>
+Date:   Sun Nov 22 17:31:18 2026 +0100
+
+    Enhance README with formatting
+
+ README.md | 11 +++++++++++
+ 1 file changed, 11 insertions(+)
+
+commit e022c3f50a881bb44c41f6f28f171f2efebf63b7
+Author: noa cantero <noacanmar@iespoblenou.org>
+Date:   Sun Nov 22 17:23:05 2026 +0100
+
+    Add feature list table to README
+
+ README.md | 5 +++++
+ 1 file changed, 5 insertions(+)
+
+commit 20ee13d9d2a458cee9dd1f9b4775082957dc88dc
+Author: noa cantero <noacanmar@iespoblenou.org>
+Date:   Sun Nov 22 17:14:02 2026 +0100
+
+    Add project logo to README
+
+ README.md       |   1 +
+ images/logo.png | Bin 0 -> 6356 bytes
+ 2 files changed, 1 insertion(+)
+
+commit 7a85fa9670cfd45ed29d4f560327a801343ccb0f
+Author: noa cantero <noacanmar@iespoblenou.org>
+Date:   Sun Nov 22 17:00:31 2026 +0100
+
+    Add sections to README
+
+ README.md | 18 ++++++++++++++++--
+ 1 file changed, 16 insertions(+), 2 deletions(-)
+
+commit 2ffe5fca083a5114333c21c410292d6597475884
+Author: noa cantero <noacanmar@iespoblenou.org>
+Date:   Sun Nov 22 16:58:47 2026 +0100
+
+    Add hyperlinks to README
+
+ README.md | 3 ++-
+ 1 file changed, 2 insertions(+), 1 deletion(-)
+
+commit 5a947eab54308ae9def4979dea5e59467d2b0283
+Author: noa cantero <noacanmar@iespoblenou.org>
+Date:   Sun Nov 22 16:55:36 2026 +0100
+
+    Add Table of Contents to README
+
+ README.md | 10 +++++++++-
+ 1 file changed, 9 insertions(+), 1 deletion(-)
+
+commit b835648a69892309bdbc5ce8c743575fc6831e2d
+Author: noa cantero <noacanmar@iespoblenou.org>
+Date:   Sun Nov 22 16:51:08 2026 +0100
+
+    Add README with project introduction
+
+ README.md | 2 ++
+ 1 file changed, 2 insertions(+)
+
+commit 0ae911a526c7af09b10be23e036e92738d80529f
+Author: noa cantero <noacanmar@iespoblenou.org>
+Date:   Sun Nov 22 16:45:21 2026 +0100
+
+    Initial commit with .gitignore
+
+ .gitignore | 1 +
+ 1 file changed, 1 insertion(+)
